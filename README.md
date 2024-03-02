@@ -58,4 +58,4 @@ Sinta-se à vontade para contribuir com melhorias ou compartilhar suas próprias
 
 ## Licença
 
-Este exercício é fornecido sob a [Licença MIT](LICENSE).
+Este exercício é fornecido sob a [Licença MIT](https://github.com/wilkerlisboa/DataBases_Biblioteca/edit/main/LICENSE).
