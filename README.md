@@ -1,4 +1,4 @@
-# Exercício de Banco de Dados - Biblioteca
+# Banco de Dados - Biblioteca
 
 Este é um exercício de modelagem e implementação de um banco de dados para uma biblioteca. O exercício envolve a criação de tabelas para autores, editores, livros, usuários e empréstimos, permitindo o rastreamento de quem pegou emprestado qual livro e quando.
 
